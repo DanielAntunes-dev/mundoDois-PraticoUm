@@ -14,3 +14,8 @@ estatísticos, com a inclusão de elementos CSS do framework Bootstrap.
 * Utilizar folhas de estilo (CSS) na formatação das páginas;
 * Definir uma fonte de dados estática, no próprio HTML;
 * Utilizar elementos básicos de formatação com o framework Bootstrap.
+
+
+  <p>
+    <a href="https://danielantunes-dev.github.io/mundoDois-PraticoUm/" target="_blank"> Git pages</a>
+  </p>
